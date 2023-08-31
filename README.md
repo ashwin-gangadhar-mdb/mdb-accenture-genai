@@ -27,6 +27,6 @@ https://python.langchain.com/docs/modules/model_io/models/llms/integrations/llam
 ```bash
 pip3 install requirements.txt
 ```
-3. Run the Notebook `./Accenture_demo.ipynb`
+3. Run the Notebook `./RAG_mdb_vecsearch_demo.ipynb`
 
 
